@@ -1,7 +1,7 @@
 ## TODO CHECKLIST
 
-- [ ] Deploy the shit out of it (vercel)
-- [ ] Scaffold basic UI with mock data
+- [x] Deploy the shit out of it (vercel)
+- [x] Scaffold basic UI with mock data
 - [ ] Actually setup a database (vercel postgress)
 - [ ] Attach database to UI
 - [ ] Add authentication (clerk)
